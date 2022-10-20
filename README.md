@@ -1,9 +1,6 @@
 # Python
 Python Projects for Beginners
 
-
-3 beginner projects
-
 Project 1: Simple Quiz
 
 Project 2(Guessing Game): 
