@@ -13,3 +13,4 @@ generated number. After every guess, you will be provided a hint. When, you matc
 required to do the guess.
 
 Project 3:
+This is a rock, paper, scissors game which is basically self explanatory. You will be asked if you want to play. If yes, you need to choose from rock, paper, scissor and the program generates a random guess every time you play and checks with your guess. As per the game rules, either you or the computer wins and the winner gains a point. You can quit the game anytime with the input "q" or "Quit". A score-board will record both yours and computer progress at the same time and display it after every round. When, you decide to quit, the program will announce the winner and final scores along with the number of rounds played.
